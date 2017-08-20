@@ -62,8 +62,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="index.html" />
-    <Content Include="stylesheet.css" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
