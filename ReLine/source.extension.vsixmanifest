@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="ReLine.6d5a2bbd-3281-4f20-9220-628ebf237f97" Version="1.0" Language="en-US" Publisher="Company" />
+        <Identity Id="ReLine.6d5a2bbd-3281-4f20-9220-628ebf237f97" Version="1.1" Language="en-US" Publisher="Marenu" />
         <DisplayName>ReLine</DisplayName>
         <Description xml:space="preserve">It shrinks the line height without changing the font size of your code.
 Lines which contain no letters or numbers will be shrinked 25%.</Description>
